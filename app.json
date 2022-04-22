@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "app-essencity",
     "name": "APP-ESSENCITY",
     "slug": "APP-ESSENCITY",
     "version": "1.0.0",
